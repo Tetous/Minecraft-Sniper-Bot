@@ -1,0 +1,13 @@
+{
+  "name": "Minecraft Discord Bot",
+  "description": "Test",
+  "version": "1.0.0",
+  "main": "bot.py",
+  "scripts": {
+    "start": "node bot.py"
+  },
+  "dependencies": {
+    "discord.py": "11.1.0",
+    "request": "2.81.0"
+  }
+}
